@@ -19,3 +19,11 @@
 
 
 * Final Report
+
+###### In the applied industry context this would be the final client deliverable, where a data scientist presents the earlier reviewed, and amended, if necessary, results and recommendations, all presented in the context of the key elements of the Analytic Plan, emphasizing the stated goal(s) of the project. As such, the Final Report assignment is characterized by greater scope (than the Analytic Plan and Preliminary Results assignments) as it needs to address the key elements of both the Analytic Plan and Analytic Results, in addition to also delineating the key takeaways and recommendation, as well as the proposed validity assessment process and steps. The specific contents and the overall organizational schema of the Final Report are outlined below (in the Project Assignments section).
+
+
+
+
+
+

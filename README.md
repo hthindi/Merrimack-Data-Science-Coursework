@@ -9,5 +9,7 @@
 
 ###### It is important to note that the assessment in this course is built around hands-on, project-based work. Consequently, the individual Assignments can be seen as somewhat distinct elements, or parts of the larger project, the goal of which is to go through a full lifecycle of a relatively simple, yet very realistic applied machine learning project. With that in mind, the said full machine learning project lifecycle is divided into three general components of 1. Analytic Plan, 2. Preliminary Results, and 3. Final Report, which mirrors the commonly used analytic consulting process; each of those three core elements is briefly outlined below:
 
-* Hi
-* Hi
+* Analytic Plan
+# HELO
+* Preliminary Results
+* Final Report
